@@ -25,6 +25,7 @@ discovery:
   - motioneye
 host_network: true
 apparmor: false
+full_access: true
 video: true
 privileged:
   - DAC_READ_SEARCH
